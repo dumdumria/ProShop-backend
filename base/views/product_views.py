@@ -149,7 +149,7 @@ def createProductReview(request, pk):
 
         )
 
-        reviews = product.reviews_set.all()
+        reviews = product.review_set.all()
         product.numReviews = len(reviews)
 
         total = 0
