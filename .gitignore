@@ -1,0 +1,33 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Django secret key and environment variables
+*.env
+
+# Database files
+db.sqlite3
+
+# Static and media files
+/staticfiles# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Django secret key and environment variables
+*.env
+
+# Database files
+db.sqlite3
+
+# Static and media files
+/staticfiles
